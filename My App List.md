@@ -22,7 +22,7 @@
 
 * **Photoshop 2019**
 
-* **QQ ** + **Wechat**
+* **QQ** + **Wechat**
 
 * **腾讯课堂**
 
@@ -228,8 +228,40 @@
 
 * **Xcode**
 
+## Mac应用市场
 
+* ### 正版/介绍
 
-## 有关Mac软件的网站
+  - MacUpdate：https://www.macupdate.com/
+  - App Shopper：http://appshopper.com/
+  - 类似于iOS上Cydia一样的第三方软件商店：[http://hack-store.com](http://hack-store.com/)
+  - 少数派：http://sspai.com/tag/Mac
+  - Mac玩儿法：[http://www.waerfa.com](http://www.waerfa.com/)
+  - 数码荔枝：https://www.lizhi.io/
 
+* ### 盗版软件下载网站
+
+  *上面有大量的开源软件或者免费软件，拒绝盗版从我做起，下面被删除的网站提供大量破解软件下载，欢迎大家监督它们。*
+
+  * ~~[黑苹果乐园](https://imac.hk)~~
   
+  * ~~[Xclient](https://xclient.info/)~~
+  
+  * ~~[Macsky](https://www.macsky.net)~~
+  
+  * ~~[NMAC](https://nmac.to/)~~
+  
+  * ~~[MacEnjoy](https://www.macenjoy.co/)~~
+  
+  * ~~[知您网](https://www.zhinin.com/)~~
+  
+  * ~~[WaitSun](https://www.waitsun.com/)~~
+  
+  * ~~[苹果软件园](http://www.maczapp.com/)~~
+  
+  * ~~[马可波罗](https://www.macbl.com/)~~
+  
+  * ~~[Appaddict](https://www.appaddict.org/)~~
+  
+  本项目受(awesome)(https://github.com/sindresorhus/awesome)项目启发，整理自己在过去两年总结的APP和网站所得到，后期会不定时更新。
+
