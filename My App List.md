@@ -103,7 +103,7 @@
 
 * **Flotato**
 
-  * 将Web网站变为一个应用，传送门(暂缺)
+  * 将Web网站变为一个应用，支持较多国外网站
 
 * **Qbserve**
 
@@ -165,7 +165,7 @@
 * **Hard Disk Manager**
   * Paragon 出品的美观高效的磁盘管理软件
 * **HWMonitor**
-  * 
+  * 硬盘温度监测
 * **HyperSwitch**
 * **爱思助手**
   * Mac下提前体验IpadOS的工具
@@ -263,5 +263,5 @@
   
   * ~~[Appaddict](https://www.appaddict.org/)~~
   
-  本项目受(awesome)(https://github.com/sindresorhus/awesome)项目启发，整理自己在过去两年总结的APP和网站所得到，后期会不定时更新。
+  本项目受(awesome)(https://github.com/sindresorhus/awesome) 项目启发，整理自己在过去两年总结的APP和网站所得到，后期会不定时更新。
 
